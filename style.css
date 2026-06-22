@@ -1,22 +1,22 @@
 body {
   background-size: cover;
   background-position: center;
-  background-color: #3b0764;
-  color: white;
+  background-color: #e9d5ff;
+  color: #1a0533;
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
 
 h1 {
-  color: #a855f7;
+  color: #7c3aed;
 }
 
 h2 {
-  color: #c084fc;
+  color: #9333ea;
 }
 
 p {
-  color: #d4d4d4;
+  color: #4c1d95;
 }
 
