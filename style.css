@@ -30,6 +30,7 @@ nav {
   padding: 10px 0;
   border-top: 2px solid #ddd6fe;
   box-shadow: 0 -2px 10px rgba(124, 58, 237, 0.1);
+  font-size: 24px;
 }
 
 nav a {
