@@ -42,3 +42,19 @@ nav a {
   align-items: center;
   gap: 3px;
 }
+
+button {
+  background-color: #7c3aed;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  padding: 12px 24px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+main {
+  padding: 20px;
+  padding-bottom: 80px;
+}
